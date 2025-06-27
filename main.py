@@ -1,5 +1,4 @@
 from flask import Flask, request, render_template, jsonify
-from instagrapi import Client
 import os
 import time
 import threading
